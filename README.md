@@ -27,10 +27,9 @@ Fonte utilizada: Poppins
 
 Estilo visual:
 
-Layout limpo e responsivo
-Cores fortes e contrastantes para representar emoção e alerta
-Imagens em preto e branco com textos coloridos
-Animações leves ao passar o mouse sobre os cards
+Layout limpo e responsivo.
+Cores fortes e contrastantes para representar emoção e alerta.
+Animações leves ao passar o mouse sobre os cards.
 
 
  Tecnologias Utilizadas

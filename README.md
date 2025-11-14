@@ -40,7 +40,7 @@ Links externos e recursos de conscientização
 
  Conteúdo Educativo
 
-Cada seção do site traz informações baseadas em materiais de apoio e campanhas reais sobre bullying, incentivando:
+Cada sessão do site traz informações baseadas em materiais de apoio e campanhas reais sobre bullying, incentivando:
 O combate à exclusão social
 O respeito e empatia nas relações
 A valorização da saúde mental
